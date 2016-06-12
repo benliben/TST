@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="actionbar_bg">#0564A6</color>
+    <color name="orange">#FFCCFF00</color>
+    <color name="grey">#FFCCCCCC</color>
+    <color name="red">#FF0000</color>
+    <color name="header_bg">#7F93AD</color>
+    <color name="all_bg">#f2f2f2</color>
+    <color name="buttom_bg">#D9D9D9</color>
+    <color name="line">#2A3441</color>
+    <color name="title">#000000</color>
+    <color name="content">#808080</color>
+    <color name="bule">#1E88E5</color>
+    <color name="list_divider">#D5D5D5</color>
+    <color name="list_bg">#F9F9F9</color>
+    <color name="list_item_content">#4c6282</color>
+    <color name="tag_bg">#FF9800</color>
+    <color name="table_tag_bg">#CCCCCC</color>
+    <color name="tabs_bg">#FFFFFF</color>
+    <color name="tabs_selected">#FF9800</color>
+    <color name="tabs_txt_selected">#FF9800</color>
+    <color name="tabs_txt">#909090</color>
+    <color name="menu_text">#363636</color>
+    <color name="menu_title">#3CAC17</color>
+    <color name="menu_divider">#D5D5D5</color>
+    <color name="menu_line">#CACACA</color>
+    <!-- 程序主色调 -->
+    <color name="background">#f2f2f2</color>
+    <color name="table_background">#cbcbcb</color>
+
+    <!-- 内容条目按下时的样式 -->
+    <drawable name="pressed_bg">#f2f2f2</drawable>
+    <drawable name="nopressed_bg">#fff</drawable>
+
+
+    <color name="text_color">#ffffff</color>
+    <color name="text_hint">#D9D9D9</color>
+
+    <color name="btn_bg_n">#FB6E52</color>
+    <color name="btn_bg_p">#F44336</color>
+    <color name="btn_login_n">#5197c0</color>
+    <color name="btn_login_p">#5197e0</color>
+    <color name="btn_disable">#555555</color>
+    <color name="ad_title">#0000FF</color>
+    <color name="material_teal_500">#F44336</color>
+
+    <!-- dialog color -->
+    <color name="dialog_title">#3CAC17</color>
+    <color name="dialog_message">#363636</color>
+    <color name="dialog_positive">#1E88E5</color>
+    <color name="dialog_negative">#F44336</color>
+    <color name="dialog_neutral">#F44336</color>
+    <color name="dialog_divider">#D5D5D5</color>
+    <color name="dialog_line">#CACACA</color>
+    <color name="dialog_bg">#FBFBFB</color>
+</resources>

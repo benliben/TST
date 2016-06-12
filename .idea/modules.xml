@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TST.iml" filepath="$PROJECT_DIR$/TST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-pulltorefresh-library/android-pulltorefresh-library.iml" filepath="$PROJECT_DIR$/android-pulltorefresh-library/android-pulltorefresh-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-ultra-pull-to-refresh-library/android-ultra-pull-to-refresh-library.iml" filepath="$PROJECT_DIR$/android-ultra-pull-to-refresh-library/android-ultra-pull-to-refresh-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialog/dialog.iml" filepath="$PROJECT_DIR$/dialog/dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvchelper_library/mvchelper_library.iml" filepath="$PROJECT_DIR$/mvchelper_library/mvchelper_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoView/photoView.iml" filepath="$PROJECT_DIR$/photoView/photoView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rangebar/rangebar.iml" filepath="$PROJECT_DIR$/rangebar/rangebar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xCLCharts/xCLCharts.iml" filepath="$PROJECT_DIR$/xCLCharts/xCLCharts.iml" />
+    </modules>
+  </component>
+</project>
